@@ -1,0 +1,15 @@
+.menu,footer{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.menu,.footer{
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.menu{
+  display: grid;
+}
+.div_menu{
+  margin-bottom: 10px;
+}
